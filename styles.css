@@ -14,8 +14,13 @@ body {
     color: #222;
     line-height: 1.6;
     min-height: 100vh;
+    padding: 0% 10px;
 }
 
+div {
+    border: 1px solid #6e2ec8;
+    border-top: dotted 1px purple;
+}
 
 header h1 {
     font-size: 2.5rem;
